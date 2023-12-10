@@ -4,7 +4,7 @@
 
 # douyin算法
 抖音签名算法、X-Bogus、a_bogus
-__ac_signature签名47位、147位、x_bogus、a_bogus算法vmp纯算还原、
+__ac_signature签名47位、147位、x_bogus、a_bogus算法vmp纯算还原、滑块captcha js py纯算、
 直播签名sign、发布作品authsignature授权、验证captcha、Bd-Ticket-Guard-Client-Data
 
 # douyin协议
@@ -14,9 +14,7 @@ __ac_signature签名47位、147位、x_bogus、a_bogus算法vmp纯算还原、
 直播上榜人气协议、直播间数据信息、直播间点赞、直播间发言、直播间举报、直播间商品数据、
 web端全部数据接口、绕验证、ttwid、绕验证获取主页视频详情;
 
-# douyin
-抖音某些协议本身的风控需自行解决(堆CK)
-以上协议算法可进行定制打包为软件，算法可单独售接口进行调用
+# 
 
 另外遗漏的协议算法可进行定制 电报：https://t.me/bytesdouyin
 
